@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# Runtime data (regenerable from schema + your writes)
+# Memoria creates these on first import, no need to commit.
+data/
+
+# Credentials (NEVER commit)
+.env
+*.key
+*.pem
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Test artifacts
+tmp/
+*.log
+
+# Backup files we generate inside the project
+*.tar.gz
+!data/backups/.gitkeep

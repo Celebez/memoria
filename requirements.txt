@@ -1,0 +1,4 @@
+requests>=2.31
+redis>=5.0
+# boto3 is only required for Cloudflare R2 (optional):
+boto3>=1.34
