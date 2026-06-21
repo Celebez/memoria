@@ -13,6 +13,14 @@ full speed on a fresh box with only SQLite.
 └──────────────────────────────────────────────────────────┘
 ```
 
+> **Canonical source policy.** This repository is a published artifact, not
+> a collaborative project. Issues, PRs, and wiki are disabled. Documentation
+> is licensed under **CC BY-ND 4.0** (no derivatives). See [`NOTICE.md`](NOTICE.md)
+> for the full policy and the canonical URL.
+>
+> **Code** (Python, shell, SQL) remains under the **MIT License** —
+> see [`LICENSE`](LICENSE).
+
 ## Documentation
 
 - **[Tutorial lengkap (Indonesia)](docs/TUTORIAL.md)** — step-by-step dari nol sampai production, cocok untuk di-share ke publik.

@@ -1,0 +1,62 @@
+Creative Commons Attribution-NoDerivatives 4.0 International
+
+=======================================================================
+
+This license applies to ALL DOCUMENTATION FILES in this repository,
+including but not limited to:
+
+- README.md
+- docs/TUTORIAL.md
+- docs/STRATEGIC-VALUE.md
+- docs/ARCHITECTURE.md
+- docs/RISK_REWARD.md
+- docs/*.md (any future markdown documentation files)
+- Any inline comments, docstrings, and explanatory text in code files
+
+=======================================================================
+
+You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format
+
+Under the following terms:
+
+- **Attribution** — You must give appropriate credit, provide a link to
+  the license, and indicate if changes were made. You may do so in any
+  reasonable manner, but not in any way that suggests the licensor
+  endorses you or your use.
+
+- **NoDerivatives** — If you remix, transform, or build upon the material,
+  you may not distribute the modified material. The canonical, unmodified
+  version is the only version that may be redistributed.
+
+- **No additional restrictions** — You may not apply legal terms or
+  technological measures that legally restrict others from doing
+  anything the license permits.
+
+=======================================================================
+
+NOTICE — Canonical Source Policy:
+
+The only authoritative version of this documentation lives at:
+
+  https://github.com/Celebez/memoria
+
+Any copy, mirror, or fork of the documentation is by definition a
+"modified material" under this license and may NOT be redistributed
+in place of the canonical version.
+
+Pull requests to the canonical repository are not accepted. The
+documentation is a published artifact, not a collaborative project.
+
+=======================================================================
+
+Full license text: https://creativecommons.org/licenses/by-nd/4.0/legalcode
+
+Human-readable summary: https://creativecommons.org/licenses/by-nd/4.0/
+
+=======================================================================
+
+Note: SOFTWARE FILES (Python, shell scripts, schema.sql) are licensed
+under the MIT License — see the LICENSE file. This notice applies only
+to documentation.
