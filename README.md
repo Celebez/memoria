@@ -16,6 +16,7 @@ full speed on a fresh box with only SQLite.
 ## Documentation
 
 - **[Tutorial lengkap (Indonesia)](docs/TUTORIAL.md)** — step-by-step dari nol sampai production, cocok untuk di-share ke publik.
+- **[Strategic Value](docs/STRATEGIC-VALUE.md)** — kenapa memory system penting + analisa token cost kalau kebanyakan tool (bilingual, shareable).
 - **[Architecture](docs/ARCHITECTURE.md)** — diagram alur data, performance benchmarks, design principles.
 - **[Risk vs Reward](docs/RISK_REWARD.md)** — analisis jujur per layer: kapan perlu, kapan tidak, kapan upgrade.
 
