@@ -307,7 +307,7 @@ MIT — see `LICENSE`.
 
 ## Credits
 
-Built for the Cuanology agent stack by Celebez.
+By Celebez.
 Inspired by the "explanation ledger" pattern from the Hermes memory
 system and the "local-first, cloud-optional" approach from CouchDB's
 sync model.
